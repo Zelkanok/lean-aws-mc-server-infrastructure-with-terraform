@@ -67,7 +67,7 @@ Getting frustrated and stuck is a normal part of learning! You can do it! I beli
 
 1. Git clone this repo.
     - https://docs.github.com/en/repositories/creating-and-managing-repositories/cloning-a-repository
-    - git@github.com:Zelkanok/lean-aws-mc-server-infrastructure-with-terraform.git
+    - git@github.com/Zelkanok/lean-aws-mc-server-infrastructure-with-terraform.git
 2. Open the project folder in the code edit of your choice.
 3. Open the "main.tf" file and read through the comments.
     - The comments will provide explanations for modules and their functions (for the beginners)
